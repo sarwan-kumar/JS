@@ -27,3 +27,6 @@ let state = null             //null is a standalone value but undefined mean var
 
 
 // object
+
+console.log(typeof null);         // null is a object 
+console.log(typeof undefined);    //undefined 
